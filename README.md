@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of odoorbell/htmleditor.** Not for installation: use [Packagist](https://packagist.org/packages/odoorbell/htmleditor) or the [upstream repository](https://github.com/odoorbell/htmleditor).
 
-**0** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/odoorbell-htmleditor/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`v0.0.1`](https://github.com/flarchive/odoorbell-htmleditor/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2025-03-04 | `^1.0` | [Browse](https://github.com/flarchive/odoorbell-htmleditor/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/odoorbell-htmleditor.json](https://github.com/flarchive/archive-index/blob/main/packages/odoorbell-htmleditor.json)
 
